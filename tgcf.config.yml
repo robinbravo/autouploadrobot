@@ -3,8 +3,8 @@ forwards:
 - source: -1001260894987
   dest:
   - testb0tb
-  offset: 12694
-  end: 
+  offset: 12723
+  end: null
 show_forwarded_from: false
 live:
   delete_sync: false
